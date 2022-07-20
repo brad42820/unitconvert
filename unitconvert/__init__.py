@@ -1,4 +1,4 @@
-import unitconvert.constants.CONSTANTS as unitconvert.CONSTANTS
+from unitconvert.constants import CONSTANTS
 import unitconvert.length
 import unitconvert.area
 import unitconvert.volume
